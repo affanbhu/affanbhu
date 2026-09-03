@@ -1,60 +1,44 @@
-<img width="2048" height="768" alt="4bcb4ab8-01b8-48ec-88be-d1cf494c6fce" src="https://github.com/user-attachments/assets/4e4e67d9-a5dc-413e-9c1c-e4be01edf8cd" />
+<img width="100%" alt="Affan Bhuiyan GitHub Profile Banner" src="https://github.com/user-attachments/assets/4e4e67d9-a5dc-413e-9c1c-e4be01edf8cd" />
 
-<h2 align="center">Hi 👋, I'm Affan Bhuiyan</h2>
+<h1 align="center">Hi, I'm Affan Bhuiyan 👋</h1>
 
-<p align="center">
-  CSE Student | Beginner Web Developer | Learning JavaScript & React
-</p>
-
----
+<h3 align="center">CSE Student | Aspiring Web Developer</h3>
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm a CSE student learning programming and web development.
-- 🌱 Currently learning JavaScript and React.
-- 💻 I enjoy building small projects and practicing my coding skills.
-- 🚀 My goal is to become a better developer by building projects consistently.
-- 📚 Currently improving my problem-solving and programming fundamentals.
+I'm a CSE student currently learning web development and building projects to improve my programming skills. I enjoy exploring new technologies and turning what I learn into practical projects.
 
----
+### 🚀 Currently
 
-## 🛠️ Technologies I'm Learning
+- 🌱 Learning JavaScript and React
+- 💻 Building small web development projects
+- 📚 Improving my programming and problem-solving skills
+- 🔍 Exploring modern web technologies
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github" />
+## 🛠️ Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
 </p>
 
----
+## 🌐 Connect With Me
 
-## 🚀 My Projects
-
-Here are some of the projects I'm currently working on:
-
-- 🔹 **Assignment1** — A project I built while practicing programming.
-- 🔹 **project01** — One of my web development practice projects.
-
-Check out my pinned repositories below to see my projects.
-
----
-
-## 📚 Currently Learning
-
-- JavaScript
-- React
-- Git & GitHub
-- Problem Solving
-- Web Development
-
----
-
-## 🤝 Connect With Me
-
-<p>
+<p align="left">
   <a href="https://github.com/affanbhu">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=github" width="40" />
   </a>
 </p>
 
----
+## 📊 GitHub Stats
 
-⭐ Thanks for visiting my profile!
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=affanbhu&show_icons=true&hide_border=true" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=affanbhu&hide_border=true" />
+</p>
+
+## 📌 Featured Projects
+
+Check out my pinned repositories below 👇
