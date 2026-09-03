@@ -7,6 +7,7 @@
 ## 👨‍💻 About Me
 
 I'm a CSE student currently learning web development and building projects to improve my programming skills. I enjoy exploring new technologies and turning what I learn into practical projects.
+📧 Email: affanbhuiyan.project@gmail.com
 
 ### 🚀 Currently
 
